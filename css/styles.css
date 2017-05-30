@@ -1,0 +1,25 @@
+h1 {
+  font-size: 50px;
+  text-decoration: line-through;
+}
+
+header {
+  color: white;
+  font-style: bold;
+  background-color: aqua;
+}
+
+nav {
+  text-decoration: underline;
+}
+
+.container {
+  float: left;
+  max-width: 100%;
+  background-color: blue;
+}
+
+img {
+  max-width: 100%;
+  float: left;
+}
